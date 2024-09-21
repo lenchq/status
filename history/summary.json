@@ -16,7 +16,7 @@
     "timeMonth": 610,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2024-09-21": 100,
+      "2024-09-21": 1140,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 380
@@ -27,53 +27,59 @@
     "url": "https://git.svo.lol",
     "icon": "https://icons.duckduckgo.com/ip3/git.svo.lol.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 710,
-    "timeWeek": 607,
-    "timeMonth": 607,
-    "timeYear": 607,
-    "dailyMinutesDown": {}
+    "time": 592,
+    "timeDay": 622,
+    "timeWeek": 592,
+    "timeMonth": 592,
+    "timeYear": 592,
+    "dailyMinutesDown": {
+      "2024-09-21": 0
+    }
   },
   {
     "name": "Wakapi",
     "url": "https://waka.svo.lol",
     "icon": "https://icons.duckduckgo.com/ip3/waka.svo.lol.ico",
     "slug": "wakapi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 699,
-    "timeWeek": 569,
-    "timeMonth": 569,
-    "timeYear": 569,
-    "dailyMinutesDown": {}
+    "time": 600,
+    "timeDay": 713,
+    "timeWeek": 600,
+    "timeMonth": 600,
+    "timeYear": 600,
+    "dailyMinutesDown": {
+      "2024-09-21": 0
+    }
   },
   {
     "name": "Gallery",
     "url": "https://gallery.svo.lol",
     "icon": "https://icons.duckduckgo.com/ip3/gallery.svo.lol.ico",
     "slug": "gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 586,
-    "timeDay": 688,
-    "timeWeek": 586,
-    "timeMonth": 586,
-    "timeYear": 586,
-    "dailyMinutesDown": {}
+    "time": 638,
+    "timeDay": 769,
+    "timeWeek": 638,
+    "timeMonth": 638,
+    "timeYear": 638,
+    "dailyMinutesDown": {
+      "2024-09-21": 0
+    }
   }
 ]
