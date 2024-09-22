@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 610,
-    "timeDay": 678,
-    "timeWeek": 610,
-    "timeMonth": 610,
-    "timeYear": 610,
+    "time": 522,
+    "timeDay": 173,
+    "timeWeek": 522,
+    "timeMonth": 522,
+    "timeYear": 522,
     "dailyMinutesDown": {
-      "2024-09-21": 1140,
+      "2024-09-22": 110,
+      "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 380
@@ -28,18 +29,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.svo.lol.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 622,
-    "timeWeek": 592,
-    "timeMonth": 592,
-    "timeYear": 592,
+    "uptime": "91.49%",
+    "uptimeDay": "71.56%",
+    "uptimeWeek": "91.49%",
+    "uptimeMonth": "91.49%",
+    "uptimeYear": "91.49%",
+    "time": 505,
+    "timeDay": 302,
+    "timeWeek": 505,
+    "timeMonth": 505,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2024-09-21": 0
+      "2024-09-22": 110,
+      "2024-09-21": 300
     }
   },
   {
@@ -48,18 +50,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/waka.svo.lol.ico",
     "slug": "wakapi",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 600,
-    "timeDay": 713,
-    "timeWeek": 600,
-    "timeMonth": 600,
-    "timeYear": 600,
+    "uptime": "91.49%",
+    "uptimeDay": "71.57%",
+    "uptimeWeek": "91.49%",
+    "uptimeMonth": "91.49%",
+    "uptimeYear": "91.49%",
+    "time": 518,
+    "timeDay": 417,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2024-09-21": 0
+      "2024-09-22": 110,
+      "2024-09-21": 300
     }
   },
   {
@@ -68,18 +71,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gallery.svo.lol.ico",
     "slug": "gallery",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 769,
-    "timeWeek": 638,
-    "timeMonth": 638,
-    "timeYear": 638,
+    "uptime": "91.49%",
+    "uptimeDay": "71.57%",
+    "uptimeWeek": "91.49%",
+    "uptimeMonth": "91.49%",
+    "uptimeYear": "91.49%",
+    "time": 542,
+    "timeDay": 456,
+    "timeWeek": 542,
+    "timeMonth": 542,
+    "timeYear": 542,
     "dailyMinutesDown": {
-      "2024-09-21": 0
+      "2024-09-22": 110,
+      "2024-09-21": 300
     }
   }
 ]
