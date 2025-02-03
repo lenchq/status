@@ -1,7 +1,7 @@
 url: https://git.svo.lol
-status: up
-code: 200
-responseTime: 791
-lastUpdated: 2025-02-02T23:08:35.007Z
+status: down
+code: 502
+responseTime: 563
+lastUpdated: 2025-02-03T11:17:24.635Z
 startTime: 2024-09-18T17:39:48.093Z
 generator: Upptime <https://github.com/upptime/upptime>
